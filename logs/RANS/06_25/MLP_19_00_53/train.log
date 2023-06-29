@@ -1,0 +1,120 @@
+2023-06-25 19:00:53 INFO     Saving logs in: ./logs/RANS/06_25/MLP_19_00_53
+2023-06-25 19:00:53 INFO     Loading RANS dataset
+2023-06-25 19:00:57 INFO     Loading data costs  4.03s
+2023-06-25 19:00:57 INFO     Building models
+2023-06-25 19:00:57 INFO     Building models costs  0.02s
+2023-06-25 19:00:57 INFO     Start training
+2023-06-25 19:01:13 INFO     Epoch 0 | average train loss: 0.0002 | lr: 0.001000
+2023-06-25 19:01:21 INFO     Epoch 0 | valid loss: 0.0001 | valid metrics: MAE: 0.00722397 | R2: -5.56% | Time: 8.21s
+2023-06-25 19:01:35 INFO     Epoch 1 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:01:43 INFO     Epoch 1 | valid loss: 0.0001 | valid metrics: MAE: 0.00717639 | R2: -0.02% | Time: 8.19s
+2023-06-25 19:01:57 INFO     Epoch 2 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:02:05 INFO     Epoch 2 | valid loss: 0.0001 | valid metrics: MAE: 0.00717120 | R2: -0.01% | Time: 8.12s
+2023-06-25 19:02:19 INFO     Epoch 3 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:02:28 INFO     Epoch 3 | valid loss: 0.0001 | valid metrics: MAE: 0.00718623 | R2: -0.02% | Time: 8.15s
+2023-06-25 19:02:41 INFO     Epoch 4 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:02:50 INFO     Epoch 4 | valid loss: 0.0001 | valid metrics: MAE: 0.00716673 | R2: -0.02% | Time: 8.21s
+2023-06-25 19:02:50 INFO     Epoch 4 | save best models in ./logs/RANS/06_25/MLP_19_00_53
+2023-06-25 19:03:04 INFO     Epoch 5 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:03:12 INFO     Epoch 5 | valid loss: 0.0001 | valid metrics: MAE: 0.00723038 | R2: -0.03% | Time: 8.13s
+2023-06-25 19:03:26 INFO     Epoch 6 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:03:34 INFO     Epoch 6 | valid loss: 0.0001 | valid metrics: MAE: 0.00717911 | R2: -0.00% | Time: 8.09s
+2023-06-25 19:03:47 INFO     Epoch 7 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:03:56 INFO     Epoch 7 | valid loss: 0.0001 | valid metrics: MAE: 0.00727738 | R2: -0.11% | Time: 8.14s
+2023-06-25 19:04:09 INFO     Epoch 8 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:04:18 INFO     Epoch 8 | valid loss: 0.0001 | valid metrics: MAE: 0.00711797 | R2: -0.10% | Time: 8.11s
+2023-06-25 19:04:31 INFO     Epoch 9 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:04:40 INFO     Epoch 9 | valid loss: 0.0001 | valid metrics: MAE: 0.00729206 | R2: -0.19% | Time: 8.18s
+2023-06-25 19:04:53 INFO     Epoch 10 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:05:01 INFO     Epoch 10 | valid loss: 0.0001 | valid metrics: MAE: 0.00720272 | R2: -0.02% | Time: 8.12s
+2023-06-25 19:05:15 INFO     Epoch 11 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:05:24 INFO     Epoch 11 | valid loss: 0.0001 | valid metrics: MAE: 0.00717270 | R2: -0.03% | Time: 8.14s
+2023-06-25 19:05:37 INFO     Epoch 12 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:05:46 INFO     Epoch 12 | valid loss: 0.0001 | valid metrics: MAE: 0.00716854 | R2: -0.15% | Time: 8.12s
+2023-06-25 19:05:59 INFO     Epoch 13 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:06:07 INFO     Epoch 13 | valid loss: 0.0001 | valid metrics: MAE: 0.00717221 | R2: -0.31% | Time: 8.11s
+2023-06-25 19:06:21 INFO     Epoch 14 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:06:29 INFO     Epoch 14 | valid loss: 0.0001 | valid metrics: MAE: 0.00712152 | R2: -1.12% | Time: 8.10s
+2023-06-25 19:06:29 INFO     Epoch 14 | save best models in ./logs/RANS/06_25/MLP_19_00_53
+2023-06-25 19:06:43 INFO     Epoch 15 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:06:51 INFO     Epoch 15 | valid loss: 0.0001 | valid metrics: MAE: 0.00719962 | R2: -0.15% | Time: 8.10s
+2023-06-25 19:07:05 INFO     Epoch 16 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:07:13 INFO     Epoch 16 | valid loss: 0.0001 | valid metrics: MAE: 0.00724147 | R2: -1.71% | Time: 8.13s
+2023-06-25 19:07:27 INFO     Epoch 17 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:07:35 INFO     Epoch 17 | valid loss: 0.0001 | valid metrics: MAE: 0.00713188 | R2: -7.38% | Time: 8.08s
+2023-06-25 19:07:49 INFO     Epoch 18 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:07:57 INFO     Epoch 18 | valid loss: 0.0001 | valid metrics: MAE: 0.00728277 | R2: -0.81% | Time: 8.10s
+2023-06-25 19:08:11 INFO     Epoch 19 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:08:19 INFO     Epoch 19 | valid loss: 0.0001 | valid metrics: MAE: 0.00718546 | R2: -0.68% | Time: 8.06s
+2023-06-25 19:08:33 INFO     Epoch 20 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:08:41 INFO     Epoch 20 | valid loss: 0.0001 | valid metrics: MAE: 0.00725077 | R2: -0.37% | Time: 8.10s
+2023-06-25 19:08:55 INFO     Epoch 21 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:09:03 INFO     Epoch 21 | valid loss: 0.0001 | valid metrics: MAE: 0.00716897 | R2: -0.53% | Time: 8.10s
+2023-06-25 19:09:17 INFO     Epoch 22 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:09:25 INFO     Epoch 22 | valid loss: 0.0001 | valid metrics: MAE: 0.00721347 | R2: -0.77% | Time: 8.06s
+2023-06-25 19:09:39 INFO     Epoch 23 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:09:47 INFO     Epoch 23 | valid loss: 0.0001 | valid metrics: MAE: 0.00712891 | R2: -2.84% | Time: 8.09s
+2023-06-25 19:10:01 INFO     Epoch 24 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:10:09 INFO     Epoch 24 | valid loss: 0.0001 | valid metrics: MAE: 0.00712719 | R2: -0.29% | Time: 8.14s
+2023-06-25 19:10:23 INFO     Epoch 25 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:10:31 INFO     Epoch 25 | valid loss: 0.0001 | valid metrics: MAE: 0.00712519 | R2: -0.27% | Time: 8.10s
+2023-06-25 19:10:45 INFO     Epoch 26 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:10:53 INFO     Epoch 26 | valid loss: 0.0001 | valid metrics: MAE: 0.00705220 | R2: -0.60% | Time: 8.14s
+2023-06-25 19:11:08 INFO     Epoch 27 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:11:16 INFO     Epoch 27 | valid loss: 0.0001 | valid metrics: MAE: 0.00716333 | R2: -1.44% | Time: 8.13s
+2023-06-25 19:11:30 INFO     Epoch 28 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:11:38 INFO     Epoch 28 | valid loss: 0.0001 | valid metrics: MAE: 0.00712373 | R2: -2.82% | Time: 8.12s
+2023-06-25 19:11:52 INFO     Epoch 29 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:12:00 INFO     Epoch 29 | valid loss: 0.0001 | valid metrics: MAE: 0.00712270 | R2: -4.51% | Time: 8.13s
+2023-06-25 19:12:14 INFO     Epoch 30 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:12:22 INFO     Epoch 30 | valid loss: 0.0001 | valid metrics: MAE: 0.00712086 | R2: -4.53% | Time: 8.14s
+2023-06-25 19:12:35 INFO     Epoch 31 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:12:44 INFO     Epoch 31 | valid loss: 0.0001 | valid metrics: MAE: 0.00715394 | R2: -0.44% | Time: 8.10s
+2023-06-25 19:12:58 INFO     Epoch 32 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:13:06 INFO     Epoch 32 | valid loss: 0.0001 | valid metrics: MAE: 0.00729271 | R2: -3.31% | Time: 8.14s
+2023-06-25 19:13:20 INFO     Epoch 33 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:13:28 INFO     Epoch 33 | valid loss: 0.0001 | valid metrics: MAE: 0.00721299 | R2: -1.55% | Time: 8.12s
+2023-06-25 19:13:42 INFO     Epoch 34 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:13:50 INFO     Epoch 34 | valid loss: 0.0001 | valid metrics: MAE: 0.00716952 | R2: -0.04% | Time: 8.10s
+2023-06-25 19:14:04 INFO     Epoch 35 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:14:12 INFO     Epoch 35 | valid loss: 0.0001 | valid metrics: MAE: 0.00717511 | R2: -0.59% | Time: 8.12s
+2023-06-25 19:14:26 INFO     Epoch 36 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:14:34 INFO     Epoch 36 | valid loss: 0.0001 | valid metrics: MAE: 0.00727524 | R2: -0.51% | Time: 8.09s
+2023-06-25 19:14:48 INFO     Epoch 37 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:14:56 INFO     Epoch 37 | valid loss: 0.0001 | valid metrics: MAE: 0.00718490 | R2: -0.23% | Time: 8.10s
+2023-06-25 19:15:10 INFO     Epoch 38 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:15:18 INFO     Epoch 38 | valid loss: 0.0001 | valid metrics: MAE: 0.00719707 | R2: -0.74% | Time: 8.08s
+2023-06-25 19:15:32 INFO     Epoch 39 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:15:40 INFO     Epoch 39 | valid loss: 0.0001 | valid metrics: MAE: 0.00719053 | R2: -1.66% | Time: 8.13s
+2023-06-25 19:15:54 INFO     Epoch 40 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:16:02 INFO     Epoch 40 | valid loss: 0.0001 | valid metrics: MAE: 0.00714023 | R2: -2.74% | Time: 8.14s
+2023-06-25 19:16:16 INFO     Epoch 41 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:16:24 INFO     Epoch 41 | valid loss: 0.0001 | valid metrics: MAE: 0.00714372 | R2: -3.87% | Time: 8.12s
+2023-06-25 19:16:38 INFO     Epoch 42 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:16:46 INFO     Epoch 42 | valid loss: 0.0001 | valid metrics: MAE: 0.00731926 | R2: -3.95% | Time: 8.14s
+2023-06-25 19:17:00 INFO     Epoch 43 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:17:08 INFO     Epoch 43 | valid loss: 0.0001 | valid metrics: MAE: 0.00726208 | R2: -1.60% | Time: 8.13s
+2023-06-25 19:17:22 INFO     Epoch 44 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:17:30 INFO     Epoch 44 | valid loss: 0.0001 | valid metrics: MAE: 0.00722548 | R2: -0.24% | Time: 8.12s
+2023-06-25 19:17:44 INFO     Epoch 45 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:17:52 INFO     Epoch 45 | valid loss: 0.0001 | valid metrics: MAE: 0.00718336 | R2: -1.04% | Time: 8.12s
+2023-06-25 19:18:05 INFO     Epoch 46 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:18:14 INFO     Epoch 46 | valid loss: 0.0001 | valid metrics: MAE: 0.00716642 | R2: -4.01% | Time: 8.10s
+2023-06-25 19:18:27 INFO     Epoch 47 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:18:36 INFO     Epoch 47 | valid loss: 0.0001 | valid metrics: MAE: 0.00705424 | R2: -2.19% | Time: 8.18s
+2023-06-25 19:18:49 INFO     Epoch 48 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:18:58 INFO     Epoch 48 | valid loss: 0.0001 | valid metrics: MAE: 0.00716254 | R2: -0.12% | Time: 8.10s
+2023-06-25 19:19:11 INFO     Epoch 49 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:19:20 INFO     Epoch 49 | valid loss: 0.0001 | valid metrics: MAE: 0.00712340 | R2: -1.33% | Time: 8.13s
+2023-06-25 19:19:33 INFO     Epoch 50 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:19:41 INFO     Epoch 50 | valid loss: 0.0001 | valid metrics: MAE: 0.00722720 | R2: -2.58% | Time: 8.11s
+2023-06-25 19:19:55 INFO     Epoch 51 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:20:04 INFO     Epoch 51 | valid loss: 0.0001 | valid metrics: MAE: 0.00713973 | R2: -0.15% | Time: 8.18s
+2023-06-25 19:20:18 INFO     Epoch 52 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:20:26 INFO     Epoch 52 | valid loss: 0.0001 | valid metrics: MAE: 0.00721641 | R2: -0.39% | Time: 8.10s
+2023-06-25 19:20:39 INFO     Epoch 53 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:20:48 INFO     Epoch 53 | valid loss: 0.0001 | valid metrics: MAE: 0.00713515 | R2: -0.13% | Time: 8.13s
+2023-06-25 19:21:02 INFO     Epoch 54 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:21:10 INFO     Epoch 54 | valid loss: 0.0001 | valid metrics: MAE: 0.00714206 | R2: -1.40% | Time: 8.14s
+2023-06-25 19:21:24 INFO     Epoch 55 | average train loss: 0.0001 | lr: 0.001000
+2023-06-25 19:21:32 INFO     Epoch 55 | valid loss: 0.0001 | valid metrics: MAE: 0.00714855 | R2: -3.07% | Time: 8.10s
